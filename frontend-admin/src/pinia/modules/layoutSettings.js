@@ -25,13 +25,13 @@
  *
  * @Descripttion:
  * @version:
- * @Date: 2021-07-23 16:10:49
- * @LastEditors: huzhushan@126.com
- * @LastEditTime: 2022-09-27 15:47:50
- * @Author: huzhushan@126.com
- * @HomePage: https://huzhushan.gitee.io/vue3-element-admin
- * @Github: https://github.com/huzhushan/vue3-element-admin
- * @Donate: https://huzhushan.gitee.io/vue3-element-admin/donate/
+* @Date: 2021-04-21 09:18:32
+* @LastEditors:Ziyang
+
+* @Author:Ziyang
+
+
+
  */
 import { defineStore } from 'pinia'
 import { getItem, setItem } from '@/utils/storage' //getItem和setItem是封装的操作localStorage的方法

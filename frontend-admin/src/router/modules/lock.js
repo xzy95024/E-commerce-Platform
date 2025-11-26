@@ -25,13 +25,13 @@
  *
  * @Descripttion:
  * @version:
- * @Date: 2021-04-23 15:25:15
- * @LastEditors: huzhushan@126.com
- * @LastEditTime: 2021-04-23 15:29:50
- * @Author: huzhushan@126.com
- * @HomePage: https://huzhushan.gitee.io/vue3-element-admin
- * @Github: https://github.com/huzhushan/vue3-element-admin
- * @Donate: https://huzhushan.gitee.io/vue3-element-admin/donate/
+* @Date: 2021-04-21 09:18:32
+* @LastEditors:Ziyang
+
+* @Author:Ziyang
+
+
+
  */
 
 const Lock = () => import('@/views/lock/index.vue')

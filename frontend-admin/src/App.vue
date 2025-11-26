@@ -22,13 +22,13 @@
  * 
  * @Descripttion: 
  * @version: 
- * @Date: 2021-04-20 11:06:21
- * @LastEditors: huzhushan@126.com
- * @LastEditTime: 2022-09-26 12:14:10
- * @Author: huzhushan@126.com
- * @HomePage: https://huzhushan.gitee.io/vue3-element-admin
- * @Github: https://github.com/huzhushan/vue3-element-admin
- * @Donate: https://huzhushan.gitee.io/vue3-element-admin/donate/
+* @Date: 2021-04-21 09:18:32
+* @LastEditors:Ziyang
+
+* @Author:Ziyang
+
+
+
  -->
 <template>
   <el-config-provider :locale="locales[lang]">
